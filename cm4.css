@@ -1,0 +1,19 @@
+
+/*
+https://developer.mozilla.org/en-US/docs/Web/CSS
+*/
+
+body{
+    font-family: "Moo Lah Lah";
+    font-size: 90%;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font: Moo;
+}
+
+p{
+    font-size: 3em;
+}
+

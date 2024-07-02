@@ -1,0 +1,15 @@
+#word{
+    border: 5px solid green;
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
+}
+
+.divClass{
+    color: red;
+    border: 5px solid rgb(0, 128, 0);
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    
+}
